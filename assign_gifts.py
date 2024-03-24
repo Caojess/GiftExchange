@@ -5,7 +5,7 @@ groups = {
     "Portugal": ["Shizhe", "Ben"], 
     "CostaRica": ["Nidhish", "Julius", "Jon", "Jay", "Eli"],
     "Japan": ["Emily"],
-    "Harry": ["Harry"]
+    "IDK": ["Harry"]
 }
 
 def attempt_assignment(pool):
